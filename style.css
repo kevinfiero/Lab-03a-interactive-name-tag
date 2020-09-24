@@ -67,7 +67,8 @@ p{
 #name-input{
     width:200px;
     text-align: center;
-    margin: 25px;
+    margin-bottom:20px;
+    
 }
 
 #name-output{
@@ -96,4 +97,10 @@ p{
 #red-button{
     background-color: red;
     border:none;
+}
+
+#question{
+    margin-top: 25px;
+    margin-bottom:10px;
+    font-weight: bold;
 }
